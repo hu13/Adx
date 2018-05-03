@@ -12,7 +12,7 @@ public class AdxServer {
 	  public static void main(String[] args) throws AdXException {
 		    try {
 		      // Try to initialize the server.
-		    	TwoDaysTwoCampaignsGameServer Server = new TwoDaysTwoCampaignsGameServer(0000);
+		    	TwoDaysTwoCampaignsGameServer Server = new TwoDaysTwoCampaignsGameServer(4567);
 		      Server.main(null);
 		    } catch (IOException e) {
 		      e.printStackTrace();
