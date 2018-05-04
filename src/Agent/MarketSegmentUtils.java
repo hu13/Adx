@@ -5,6 +5,7 @@ import adx.structures.MarketSegment;
 import com.google.common.collect.ImmutableSet;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
@@ -13,6 +14,7 @@ final class MarketSegmentUtils {
   private static final Map<MarketSegment, Set<MarketSegment>> segs =
           new HashMap<>();
   private static final Map<MarketSegment, Integer> numAttributes = new HashMap<>();
+  private static final Map<MarketSegment, Integer> proportionsMap = MarketSegment.proportionsMap;
 
   private static final int NUM_SUBSET_ONE = 9;
   private static final int NUM_SUBSET_TWO = 3;
