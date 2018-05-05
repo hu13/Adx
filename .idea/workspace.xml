@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20ccf18e-1ed1-4998-aec6-cc81ae9d680b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Adx.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/adx_lab/adx1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_3_24.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_16.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_17b.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_19.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_30.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trading_platform/tradingplatform_4_9.jar" beforeDir="false" />
-    </list>
+    <list default="true" id="20ccf18e-1ed1-4998-aec6-cc81ae9d680b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,28 +106,6 @@
             <path>
               <item name="Adx" type="b2602c69:ProjectViewProjectNode" />
               <item name="Adx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Adx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Adx" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Adx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Adx" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="adx_lab" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Adx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Adx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Adx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Adx" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Agent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -307,12 +272,12 @@
       <workItem from="1525287985295" duration="887000" />
       <workItem from="1525370535625" duration="4738000" />
       <workItem from="1525388335859" duration="2839000" />
-      <workItem from="1525544102173" duration="1213000" />
+      <workItem from="1525544102173" duration="1401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12151000" />
+    <option name="totallyTimeSpent" value="12339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -326,12 +291,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32900944" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
