@@ -39,9 +39,6 @@ public class OurBot extends TwoDaysTwoCampaignsAgent {
 		OurBot myAgent = new OurBot("localhost", 9898);
 		initBot(myAgent);
 		myAgent.connect("Agent1");
-		
-//		System.out.println(myAgent.firstCampaign);
-		myAgent.getFirstMarketSegment();
 	}
 
 	@Override
