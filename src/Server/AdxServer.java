@@ -3,7 +3,6 @@ package Server;
 import java.io.IOException;
 
 import adx.exceptions.AdXException;
-import adx.util.Logging;
 import adx.variants.twodaysgame.TwoDaysTwoCampaignsGameServer;
 
 
