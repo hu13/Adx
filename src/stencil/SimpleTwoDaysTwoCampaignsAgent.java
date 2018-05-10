@@ -46,6 +46,7 @@ public class SimpleTwoDaysTwoCampaignsAgent extends TwoDaysTwoCampaignsAgent {
 
   public static void main(String[] args) {
     SimpleTwoDaysTwoCampaignsAgent agent = new SimpleTwoDaysTwoCampaignsAgent("localhost", 9898);
-    agent.connect("agent1");
+    agent.connect("Agent11");
+    while (true) {;}
   }
 }

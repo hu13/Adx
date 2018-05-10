@@ -46,7 +46,8 @@ public class IrrationalTwoDaysTwoCampaignsAgent extends TwoDaysTwoCampaignsAgent
 
   public static void main(String[] args) {
     IrrationalTwoDaysTwoCampaignsAgent agent = new IrrationalTwoDaysTwoCampaignsAgent("localhost", 9898);
-    agent.connect("irrational");
+    agent.connect("Agent10");
+    while (true) {;}
   }
 }
 

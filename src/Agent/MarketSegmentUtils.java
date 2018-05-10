@@ -19,7 +19,15 @@ final class MarketSegmentUtils {
   private static final int NUM_SUBSET_ONE = 9;
   private static final int NUM_SUBSET_TWO = 3;
   private static final int NUM_SUBSET_THREE = 1;
+  
 
+  /*
+   * return the proportional of people in marketseg m
+   */
+  static Integer getProportion(MarketSegment m) {
+	  return MarketSegment.proportionsMap.get(m);
+  }
+  
   private MarketSegmentUtils() throws IllegalAccessError {
     throw new IllegalAccessError();
   }
